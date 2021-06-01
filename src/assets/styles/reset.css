@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #008c8c;
+  font: 14px "microsoft yahei";
+  font-weight: 300;
+}
+
+input, button {
+  appearance: none;
+  border: none;
+  outline: none;
+}
